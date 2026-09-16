@@ -1,0 +1,5 @@
+livekit-agents>=0.8.0
+livekit-plugins-groq
+livekit-plugins-silero
+aiohttp
+python-dotenv
