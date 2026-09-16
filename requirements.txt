@@ -2,4 +2,5 @@ livekit-agents~=0.12.0
 livekit-plugins-groq
 livekit-plugins-silero
 aiohttp
+httpx
 python-dotenv
